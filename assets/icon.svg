@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="217.10001"
+   height="224.60001"
+   id="svg3032">
+  <defs
+     id="defs3034" />
+  <metadata
+     id="metadata3037">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-560.02143,-631.49075)"
+     id="layer1">
+    <g
+       id="g3057">
+      <polygon
+         points="348.6,680.2 348.6,752.3 276.2,680.2 228.1,680.2 228.1,527.7 445.2,527.7 445.2,680.2 "
+         transform="translate(331.92143,103.79075)"
+         id="polygon27"
+         style="fill:#55b8be" />
+      <polygon
+         points="334.4,666 334.4,718.2 282.1,666 242.3,666 242.3,541.9 431,541.9 431,666 "
+         transform="translate(331.92143,103.79075)"
+         id="polygon29"
+         style="fill:#ffffff" />
+      <polygon
+         points="320.3,651.8 416.9,651.8 416.9,556 256.5,556 256.5,651.8 287.9,651.8 320.3,684.1 "
+         transform="translate(331.92143,103.79075)"
+         id="polygon31"
+         style="fill:#f6c132" />
+      <polygon
+         points="306.1,637.7 306.1,649.9 293.8,637.7 270.7,637.7 270.7,570.2 402.7,570.2 402.7,637.7 "
+         transform="translate(331.92143,103.79075)"
+         id="polygon33"
+         style="fill:#ffffff" />
+      <rect
+         width="103.7"
+         height="13"
+         x="616.72144"
+         y="688.1908"
+         id="rect35"
+         style="fill:#f6c132" />
+      <rect
+         width="91.099998"
+         height="13"
+         x="616.72144"
+         y="714.1908"
+         id="rect37"
+         style="fill:#f6c132" />
+    </g>
+  </g>
+</svg>
